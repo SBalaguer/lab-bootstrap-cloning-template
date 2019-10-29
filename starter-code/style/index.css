@@ -13,3 +13,14 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+.img-list{
+  list-style-image: url("file:///Users/santiagoebalaguer/ironhack/labs/lab-bootstrap-cloning-template/starter-code/images/M.png")
+}
+
+#header{
+  font-size: 3em;
+  height: 6em;
+
+}
+

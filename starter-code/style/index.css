@@ -45,5 +45,10 @@
 
 .navbar{
   justify-content: space-between;
+  align-content: center;
+  height: 4em;
+  padding-left: 2em;
+  padding-right: 2em;
+  border-bottom: 1px solid #b9b9b9;
 }
 

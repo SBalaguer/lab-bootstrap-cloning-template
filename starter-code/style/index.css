@@ -35,3 +35,11 @@
   border: 0px;
 }
 
+.black-container{
+  margin: 0;
+  background: black;
+  color: #FFF;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+

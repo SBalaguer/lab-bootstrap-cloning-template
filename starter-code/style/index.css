@@ -20,7 +20,18 @@
 
 #header{
   font-size: 3em;
-  height: 6em;
+}
+#head-div{
+  margin-top: 6em;
+  margin-left:2em;
+}
 
+.jumbotron{
+  background: #ffffff;
+  height: 30em;
+}
+
+.card{
+  border: 0px;
 }
 

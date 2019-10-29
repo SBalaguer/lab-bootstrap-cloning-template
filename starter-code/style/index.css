@@ -37,9 +37,9 @@
 
 .black-container{
   margin: 0;
-  background: black;
+  background: #1c1c1c;
   color: #FFF;
-  padding-top: 4em;
-  padding-bottom: 4em;
+  padding-top: 8em;
+  padding-bottom: 8em;
 }
 
